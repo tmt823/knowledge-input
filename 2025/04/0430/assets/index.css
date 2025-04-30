@@ -1,0 +1,26 @@
+@font-face {
+  font-family: 'roboto';
+  src: url("https://fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmEU9fBBc4AMP6lQ.woff2");
+}
+
+@font-face {
+  font-family: 'YDW bananaslip plus';
+  src: local("./font/YDWbananaslipplus.otf");
+}
+
+@font-face {
+  font-family: 'Helvetica';
+  src: local("Helvetica");
+}
+
+.network-font {
+  font-family: 'roboto';
+}
+
+.local-font {
+  font-family: "YDW bananaslip plus";
+}
+
+.system-font {
+  font-family: "Helvetica";
+}
