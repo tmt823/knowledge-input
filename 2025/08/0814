@@ -1,0 +1,6 @@
+# 0814
+
+[Chrome 140 beta CSS typed arithmetic](https://developer.chrome.com/blog/chrome-140-beta?hl=en#css_typed_arithmetic)
+
+- `calc()` の割り算、掛け算の場合、片方は 単位なしである必要がある
+- Chrome 140 から `calc(10em / 1px)` のように単位あり同士でも掛け算、割り算できる
